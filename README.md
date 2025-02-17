@@ -23,9 +23,8 @@ Run the code by
 python main.py --i_d 0 --missrate 0.5
 ```
 ## Citation
-
+```latex
 If you find our work useful in your research, please consider citing:
-
 @article{yuan2025prototype,
   title={Prototype Matching Learning for Incomplete Multi-view Clustering},
   author={Yuan, Honglin and Sun, Yuan and Zhou, Fei and Wen, Jing and Yuan, Shihua and You, Xiaojian and Ren, Zhenwen},
@@ -33,4 +32,5 @@ If you find our work useful in your research, please consider citing:
   year={2025},
   publisher={IEEE}
 }
+```
 
