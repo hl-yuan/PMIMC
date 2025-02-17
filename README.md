@@ -1,6 +1,6 @@
 # Prototype Matching Learning for Incomplete Multi-view Clustering（TIP 2025）
 
-This repo contains the code and data of our ACM MM'2024 paper "Prototype Matching Learning for Incomplete Multi-view Clustering". If you have any questions about the source code, please contact: hl_yuan0822@163.com.
+This repo contains the code and data of our paper "Prototype Matching Learning for Incomplete Multi-view Clustering". If you have any questions about the source code, please contact: hl_yuan0822@163.com.
 
 ## Requirements
 
